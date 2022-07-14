@@ -2,3 +2,6 @@ pairRDD pyspark practice/.idea
 pairRDD pyspark practice/output
 RDD pyspark practice/.idea
 RDD pyspark practice/output
+pyspark sql/output
+pyspark sql/.idea
+pyspark sql/main.py
